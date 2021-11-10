@@ -1,0 +1,538 @@
+01:44:38	[Tutor]Ale f:	café y código!
+01:44:43	[Tutor]Ale f:	bien de mañana
+01:44:43	[Tutor] Pablo Esteban Kreick:	Sí, eso es querer estudiar jaja
+01:44:51	Diego Bruno:	estoy arruinado yo
+01:45:04	CLAUDIA TORRES:	ya hora sin cámara, no soy persona para estar en vivio todavía...
+01:45:05	Joel Hernandez:	cafe a full jaja
+01:45:07	Fernando Hernandez:	cafe endovenoso para mi
+01:45:40	[Tutor] Pablo Esteban Kreick:	o durmiendo jaja
+01:45:46	Darío Pérez:	Jajaja.
+01:45:46	Mariana Isaac:	como supo usted?? jajaja
+01:45:54	Diego Bruno:	me puse un pedo anoche
+01:45:55	Nicolas Lavini:	grabaciones
+01:46:01	Darío Pérez:	Despierto desde las 6am. Gracias mascotas...
+01:46:05	Nicolas Lavini:	benditas sean las grabaciones
+01:46:27	Federico Bistolfi:	recién de darme la segunda de sinopharm atr
+01:46:31	[Tutor] Pablo Esteban Kreick:	qué bajón!!!
+01:46:41	Ariel Dumpierres:	jaja aguante en conurba!
+01:46:45	Facundo Rodriguez Perdomo:	FEDERICO AVISO AL WSP  que se le corto la luz
+01:47:06	Facundo Rodriguez Perdomo:	Federico Herrera
+01:47:08	Facundo Rodriguez Perdomo:	jajajaja
+01:47:08	Darío Pérez:	JAJAJA
+01:47:11	[Tutor] Pablo Esteban Kreick:	jajaja
+01:47:13	Juan Pablo Medina:	jajajaj
+01:47:26	Diego Bruno:	se le bajo la persiana
+01:49:41	Ariel Dumpierres:	el ultimo dato no se cierra con la coma?
+01:50:02	Darío Pérez:	Y multiplicarlo por 500 alumnos xd
+01:51:03	Ariel Dumpierres:	oka gracias
+01:53:49	Darío Pérez:	Con "dot notation"
+01:55:48	Henry González Soto:	Profe
+01:55:53	Henry González Soto:	Una pregunta
+01:56:13	Henry González Soto:	¿Puedo usar el mic?
+01:57:58	Tomás Ríos:	que significa exactamente orientado a objetos exactamente? usar objetos en el trabajo?
+01:58:35	Gonzalo Haedo:	El objeto refleja lo que es una tabla dentro de una base de datos?
+01:58:46	Henry González Soto:	Aaaahhhh
+01:58:48	Henry González Soto:	Ok
+01:59:01	[Tutor] Pablo Esteban Kreick:	Muy buena Gonzalo, ese es un posible ejemplo
+01:59:18	Gonzalo Haedo:	Gracias
+01:59:22	[Tutor] Pablo Esteban Kreick:	los objetos los podés hacer adaptados a las bases de datos
+02:01:02	[Tutor] Pablo Esteban Kreick:	Sí, Tomás. En realidad si es orientado a objetos debería ser todo visto como objetos o casi todo. No sólo hacer uno. Pero depende de cada uno. Si hacés objetos para la aplicación estás usando el paradigma orientado a objetos igual
+02:01:22	Federico Komarofsky:	La info que genero en una función desaparece porque no es global ¿Hay forma de reutilizar esa info?
+02:02:01	[Tutor] Pablo Esteban Kreick:	la info que generes desde una función tenés que devolverla, para que sea guardada en una variable
+02:02:06	[Tutor] Pablo Esteban Kreick:	de esa forma la podés reutilizar
+02:02:34	Darío Pérez:	Que se reemplaza todo?
+02:02:35	Tomás Ríos:	usuario coder no cambnia
+02:02:36	Ariel Dumpierres:	se sobreescribe el objeto
+02:02:39	Facundo Rodriguez Perdomo:	donde se guarda
+02:02:39	Henry González Soto:	redundante
+02:02:40	Nancy Carolina. Martinez:	estas pisando usuarioCoder
+02:02:42	Matias Cavallin de Cabo:	usuariocoder
+02:02:45	Emanuel Alejandro Islas:	los dos puntos
+02:02:46	Ariel Dumpierres:	queda el ultimo
+02:02:54	Tomás Ríos:	podrias usar el i para que vaya cambiando
+02:03:16	Juan Pablo Medina:	un array
+02:08:30	Santiago Leonardis:	James Cameron
+02:08:45	Fernando Gaston Da Ruda:	no era de James Cameron? ah jajaj
+02:09:02	Matias Dominguez:	no es necesario que el nombre de la funcion arranque con mayuscula?? o es una convencion?
+02:09:31	Facundo Rodriguez Perdomo:	y cuando esos datos los va rellenando un usuario donde se guardaría? y como generamos el objeto nuevo?
+02:12:12	Ariel Santos:	no entendi ese "new"
+02:12:27	Pablo Aguila:	siempre se usa que la palabra al lado de this es la que está al otro lado el =?
+02:12:48	Federico Bistolfi:	pq usas nombrePeli y dsp usas fecha sin el peli?
+02:12:51	Pablo Aguila:	this.nombre = nombre;
+02:13:04	Fernando Hernandez:	objeto
+02:14:03	Facundo Rodriguez Perdomo:	hahahah que groso viejo bien explicado
+02:14:05	Facundo Rodriguez Perdomo:	ahí vaa
+02:15:10	Florencia Fleitas:	es de kubrick
+02:17:30	Federico Godoy:	A papa lo agarró el corralito 3
+02:17:53	Nicolas Lavini:	A nada de poner una peli de olmedo y porcel
+02:18:07	Joel Hernandez:	jjsjsjs
+02:18:24	Natalia Sala G:	Me salió el alert una vez ahora no logro que me salga de veulta
+02:18:29	Natalia Sala G:	vuelta*
+02:18:52	Federico Godoy:	Maxi... pq no te gustaba la clase como contructor?
+02:19:38	Federico Godoy:	ahh
+02:19:52	German Patrizi:	vamos a ver clases?
+02:20:03	Henry González Soto:	Profe, leí que ya JS maneja objetos como Dios manda, y ya tienen object en vez de function ¿eso ya se aplica?
+02:20:12	Mariana Isaac:	osea es mas útil utilizar el new que la función?
+02:20:17	Henry González Soto:	¿O se sigue manejando con functions?
+02:21:42	Joel Hernandez:	valoracion de la peli
+02:21:51	[Tutor] Pablo Esteban Kreick:	Como dice el profe, todos son objetos. JavaScript es orientado a otra cosa llamada prototipos. Sigue usando, no cambió, pero crearon una sintaxis más agradable para los que vienen de clases. De fondo son lo mismo. Es como escribir numero = numero + 1 o numero++
+02:22:54	Juan Pablo Medina:	también se puede usar el método getter verdad?
+02:22:58	[Tutor] Pablo Esteban Kreick:	Cuando vean clases acá, de fondo sigue usando estos conceptos que están viendo, pero te permite escribirlo como si fueran clases. Sepan que es falso, es sólo una sintaxis agradable, JavaScript no cambió
+02:23:14	[Tutor] Pablo Esteban Kreick:	Sí, tal cual Juan, agregó el tema de getters y setters
+02:25:36	Darío Pérez:	Jajaja
+02:25:37	Nicolas Parola:	Siempre tenés que llamar a la función? No se puede ejecutar sola?
+02:25:39	Joel Hernandez:	jajajaja
+02:25:55	Matias Dominguez:	la epoca dorada de Suar
+02:27:49	Fernando Hernandez:	se pueden agregar métodos al constructor?
+02:28:44	Nancy Carolina. Martinez:	ronronear
+02:29:01	Darío Pérez:	romperTodo
+02:29:53	Nancy Carolina. Martinez:	Don Gato
+02:31:41	Matias Cavallin de Cabo:	bien !
+02:31:44	Joel Hernandez:	bien
+02:31:48	Ignacio Irusta:	bien
+02:31:52	Leandro Buzzi:	bien
+02:31:56	Mariano Villalonga:	hasta ahora de 10
+02:31:56	Wilander Velazco:	bien
+02:31:58	Fernando Gaston Da Ruda:	si pero hay que practicar jaja
+02:32:01	CLAUDIA TORRES:	si, yo solo me perdí.. como puedo guardar los datos que ingresen los usuarios?
+02:32:02	Mariana Isaac:	mostras la consola un segundo?
+02:32:08	Veronica Vipputo:	loopeando
+02:32:36	Santiago Leonardis:	Consulta, el this lo que hace es obligarte a que el objeto que instancias tenga  que tener si o si esa propiedad?
+02:34:34	Mariana Isaac:	porque no me aparece el nombre de los gatitos en la consola
+02:34:50	Lucas Martinez:	es como el self en Python no?
+02:35:48	Mariana Isaac:	solucionado
+02:35:51	Mariana Isaac:	gracias!
+02:37:29	Ariel Dumpierres:	calza justo el tema de nirvana para esta clase ja
+02:37:29	[Tutor]Ale f:	Homero grunge
+02:39:06	[PROFESOR] Maximiliano Torreblanca:	nefasto capitulo
+02:39:35	[PROFESOR] Maximiliano Torreblanca:	Lisa lloro
+02:41:07	Mariana Isaac:	voy por bola de nieve 9
+02:41:19	[PROFESOR] Maximiliano Torreblanca:	🤣
+02:41:55	Florencia Fleitas:	que banda es
+02:42:55	Emanuel Alejandro Islas:	estaba copiando T_T
+02:42:58	Veronica Vipputo:	El código por favor
+02:43:05	Emanuel Alejandro Islas:	jajaj
+02:43:07	Emanuel Alejandro Islas:	grax
+02:43:13	[PROFESOR] Maximiliano Torreblanca:	algo mas?
+02:43:18	Federico Bistolfi:	un cortadito
+02:43:28	Florencia Fleitas:	dale que me quedo viendo la final de lol
+02:43:44	Ignacio Irusta:	xddd
+02:43:46	[PROFESOR] Maximiliano Torreblanca:	¬¬
+02:43:50	thiago kuperman:	hoy hay formula uno que final de lol
+02:44:53	[Tutor]Ale f:	temooooon
+02:45:30	[Tutor]Ale f:	jajajajajj
+02:45:35	[Tutor]Ale f:	dele no ma
+02:45:45	Darío Pérez:	Jajaja
+02:49:02	Leandro Buzzi:	x7
+02:49:03	Mariano Villalonga:	7
+02:49:10	Tomás Ríos:	me mataste
+02:49:25	Nancy Carolina. Martinez:	*5
+02:49:38	Joel Hernandez:	7
+02:49:39	Nancy Carolina. Martinez:	*7 los perros
+02:49:43	Tomás Ríos:	return que hace?
+02:49:44	Federico Bistolfi:	7 son las vidas
+02:49:50	Matias Cavallin de Cabo:	jaajaja
+02:49:50	Pablo Julian Cuello:	por 3
+02:49:54	Fernando Hernandez:	jajajaja
+02:49:59	Darío Pérez:	Las vidas son 9
+02:50:02	Darío Pérez:	GG xDDD
+02:50:06	Federico Bistolfi:	jadsjads
+02:50:07	Fernando Gaston Da Ruda:	jajajjajaj
+02:50:08	Mariana Isaac:	es verdad, son 9
+02:50:12	Nancy Carolina. Martinez:	nos fuimos
+02:50:15	Emanuel Alejandro Islas:	se están tirando con de todo
+02:51:17	Nicolas Parola:	Cuando creaste la función, dentro de los paréntesis no tienen que estar todos los atributos que luego nombras abajo?
+02:51:23	Mariano Gago:	A la function gatito no le falta pasarle los parametros "duenio" y "edad"?
+02:51:26	Tomás Ríos:	si no pusieramos el return apareceria la operacion?
+02:51:30	Darío Pérez:	Si fuera un aula real volarían las sillas.
+02:52:38	Darío Pérez:	Consulta: todo esto se puede hacer con obj literal?
+02:53:40	Veronica Vipputo:	Maxi por que [ ?
+02:54:59	Juan Pablo Medina:	el for in, básicamente es lo mismo que el foreach?
+03:00:05	Tutor - Ruben Mavarez:	pendientes aquí, de esta forma me parece mucho mas comoda!
+03:00:16	Fernando Gaston Da Ruda:	siempre va "constructor()"?
+03:01:40	[Tutor] Pablo Esteban Kreick:	no sé si te contestaron, Fernando, justo se me fue el audio
+03:01:55	[Tutor] Pablo Esteban Kreick:	no es necesario en algunas clases
+03:02:07	Tutor - Ruben Mavarez:	o podes tenerla y dejarla vacia
+03:02:20	Tutor - Ruben Mavarez:	también vas a encontrar esos casos
+03:02:25	[Tutor] Pablo Esteban Kreick:	pero si querés crear objetos de esa clase deberías tenerla
+03:02:41	[Tutor] Pablo Esteban Kreick:	tal cual, dice Rubén, también se deja vacío en algunos casos
+03:04:04	Ariel Dumpierres:	o sea es lo mismo que el tema anterior pero mas simplificado?
+03:05:16	[Tutor]Ale f:	no no no se borra
+03:05:18	[Tutor]Ale f:	es una plantilla
+03:05:25	Matias Dominguez:	con arrays los podes acumular
+03:05:25	[Tutor]Ale f:	queda siempre que la necesites
+03:05:28	[Tutor] Pablo Esteban Kreick:	es como si dijeras nuevoPerrito = {nombre : "cope", edad: 7...….} el hacerle el new
+03:08:08	CLAUDIA TORRES:	y vamos a ver cómo guardarlos en este curso?
+03:08:17	[Tutor] Pablo Esteban Kreick:	Si si, tranqui Claudia
+03:08:26	[Tutor] Pablo Esteban Kreick:	Se ve pronto encima! Así que re bien
+03:08:56	CLAUDIA TORRES:	ok, grax!
+03:09:19	Henry González Soto:	Profe una pregunta un poco random ¿Qué extensión usa para poner los colores así? De las letras en VS
+03:09:50	Henry González Soto:	Genial
+03:11:43	Darío Pérez:	clasificacion
+03:11:45	Henry González Soto:	claSIFICACION
+03:12:15	[Tutor]Ale f:	Dejo esto por aca y salgo despacio
+03:12:18	[Tutor]Ale f:	https://www.xatakawindows.com/aplicaciones-windows/microsoft-anuncia-fecha-lanzamiento-visual-studio-2022-se-podra-descargar-8-noviembre
+03:12:31	Juan Pablo Medina:	listo jajaj
+03:12:50	[Tutor]Ale f:	para los que programen cosa mas pesadas
+03:12:53	[Tutor]Ale f:	code coe!!
+03:13:17	[Tutor]Ale f:	imposible pedir que no sea pesado jajajajaja
+03:13:18	Leandro Buzzi:	incluso ahora hay vs code online
+03:13:21	Leandro Buzzi:	todo por web
+03:13:47	Henry González Soto:	¿Va a tener algún método?
+03:14:09	Henry González Soto:	Rating(?)
+03:14:31	Juan Pablo Medina:	Maxi, veremos herencia, polimorfismo y esas cosas en esta clase? o en el after
+03:17:22	Leandro Buzzi:	precioFinal
+03:17:24	Mariano Villalonga:	precio final
+03:18:21	Leandro Buzzi:	ahi se podia hacer un return this.precio*1.21?
+03:18:25	Lisette Pavez:	Consulta, porque en la linea 163, precioFinal no tiene antes la palabra función?
+03:18:34	[Tutor] Pablo Esteban Kreick:	Tal cual, Leandro
+03:18:45	Leandro Buzzi:	genial, gracias!
+03:19:14	[Tutor] Pablo Esteban Kreick:	No se usa en clases, Lisette, funciona sin ponerle function
+03:19:29	Mariana Isaac:	aca hace falta decararlo como parseint o parsefloat?
+03:19:35	[Tutor] Pablo Esteban Kreick:	pero sólo dentro de clases
+03:19:45	Santiago Leonardis:	+16
+03:19:47	Joel Hernandez:	mayor de 16
+03:19:59	Ivan Alvarez:	M+
+03:20:36	Henry González Soto:	La clasificación es Pegi18
+03:24:12	Pablo Julian Cuello:	o.o
+03:25:55	Juan Pablo Medina:	se debe usar la palabra reservada get o set?
+03:27:22	Henry González Soto:	Expliquelo ahora :c
+03:27:35	Lucas Martinez:	ese return ths.stock() estaría mal?
+03:27:38	Lucas Martinez:	porque está como función
+03:27:48	Juan Pablo Medina:	joya, pasa que tenia una duda, me sale un error y quería tocar el tema jaja
+03:27:56	Ricardo López:	Se viene el corte...hay posibilidad de que pases estos archivos al SLACK???asi lo podemos repasar???
+03:28:34	Henry González Soto:	A mi me gustaría un carrito de compra con este ejemplo de videojuegos
+03:28:43	Ariel Dumpierres:	simulo que hago la entrega
+03:28:45	Darío Pérez:	ídem Henry xd
+03:28:48	Ricardo López:	Diferentes medios de pago considerando diferentes intereses, esta ok???Ej, efectivo con descuento, tarjeta en 1 pago con 20% de interes, 3 cuots con 25%, 6 con 30%...y asi sucesivo...puede ser????
+03:28:52	CLAUDIA TORRES:	un torneo de futbol... conteo de puntos por goles, los objetos serían los equipos
+03:28:57	Joel Hernandez:	carrito de compra yo tambien
+03:30:12	Fernando Gaston Da Ruda:	yo estoy entre un e-commerce de juegos y consolas o de una pastelería
+03:30:44	Matias Cavallin de Cabo:	Debemos tomar para nuestro proyecto los ejemplos que brinda en las diapositivas o son meros ejemplos?
+03:30:50	Leandro Buzzi:	queria un ecommerce de componentes de pc, pero suena muy dificil
+03:30:57	Nicolas Cortese:	yo voy por un cotizador de seguros
+03:31:00	estefania tillero:	reserva de turnos puede ser?
+03:31:01	Fernando Hernandez:	Carrito agencia de viajes, los objetos son los paquetes
+03:31:39	Joel Hernandez:	formas de pago
+03:31:45	Eliana Fernandez:	simulador de plazo fijo va?
+03:31:55	Leandro Buzzi:	claro, quizas es muicho para poco tiempo jajaja
+03:32:02	[Tutor] Pablo Esteban Kreick:	Va muy bien, Eliana
+03:32:12	Fernando Gaston Da Ruda:	pregunta, vi uno de los proyectos de camadas anteriores que agregar un simulador de mercadopago
+03:32:21	Fernando Gaston Da Ruda:	que onda eso? es algo con las Api puede ser?
+03:32:35	Hernan Salti:	control de stock?
+03:32:38	[Tutor] Pablo Esteban Kreick:	Claudia está acariciando un fantasma súper lindo, algo aparece y desaparece
+03:32:42	Lucas Martinez:	algo con la API de binance me gustaría
+03:32:43	Nancy Carolina. Martinez:	Yo un cotizador de precios segun los servicios para un lugar de manicuria, es una mezcla de carrito y cotizador
+03:33:21	Leandro Buzzi:	un turnero quizas tambien que almacene nombre, dni, horarios, etc
+03:33:56	Nicolas Lavini:	Yo quería hacer una web para vender servicios profesionales. Deberia incluir un cotizador y un ecommerce. Se puede?
+03:33:59	Nicolas Lavini:	Es muy jodido?
+03:34:31	[Tutor] Pablo Esteban Kreick:	Nico, podés hacer una parte ahora para entregarlo, y luego ir agrandando el proyecto
+03:34:34	Ricardo López:	Vuevo a preguntar:Un cotizador que indique diferentes medios de pago considerando diferentes intereses, esta ok???Seleccionar medio de pago y dependiendo cual es, indicar descuento o intereses.Ej: efectivo con descuento, tarjeta en 1 pago con 20% de interes, 3 cuots con 25%, 6 con 30%...y asi sucesivo...puede ser????
+03:34:39	[Tutor] Pablo Esteban Kreick:	por si no te alcanza el tiempo
+03:34:41	Nicolas Lavini:	Gracias
+03:34:44	Henry González Soto:	¿El simulador de Login se haría como lo hicimos en clase? Es decir, poniendo un usuario y pass ¿cierto? Ya que no tenemos como acceder a una BD o algo así
+03:34:58	Nicolas Lavini:	Ah buenísimo. Gracias Pablo.
+03:35:07	[Tutor] Pablo Esteban Kreick:	De nada! :)
+03:35:31	Ricardo López:	Excelente!!Gracias!
+03:35:33	Pablo Julian Cuello:	que sería lo más sencillo? o.O
+03:35:56	[Tutor]Ale f:	si se tienen fe, pueden hacer un sistema de autenticación con firebase…. no es muy complejo solo es necesario leer bien la documentación y ponerle 2 o 3 días a fulla para entender como manejarlo.... si se animan los que quieren hacer login
+03:36:49	[Tutor]Ale f:	no tengan miedo de aprender cosas extras al curso... eso si, si la tienen clara con el contenido sienten que lo manejan bien entonces anímense a buscar cosas extras
+03:36:55	Nicolas Lavini:	En algún momento del curso vamos a ver que hacer, o como almacenar la información que se vayan recolectando? O donde se puede ver algo de eso?
+03:37:11	[Tutor]Ale f:	Nico cuando veamos storage
+03:37:17	Matias Dominguez:	hay forma de hacer un login completo solo con js?
+03:37:56	[Tutor]Ale f:	si podrias tener los usuarios permitidos en un json que ya lo veremos creo q la semana q viene
+03:37:56	Tutor - Ruben Mavarez:	no Mati, necesitas backend
+03:38:02	Tutor - Ruben Mavarez:	o eso que dice ale
+03:38:09	Tutor - Ruben Mavarez:	pero lo ideal es siempre backend
+03:38:10	Matias Dominguez:	claro, hasta json se maso menos
+03:38:14	[Tutor]Ale f:	pero seria totalmente smulado
+03:38:18	Matias Dominguez:	claro
+03:38:18	Matias Dominguez:	genial
+03:38:23	Matias Dominguez:	a por backend despues entonces
+03:38:26	Matias Dominguez:	gracias
+03:38:29	[Tutor]Ale f:	si quieres algo "real" si tendría q ser con un back ofirebase
+03:39:11	Federico Bistolfi:	cuando lo vinculamos con HTML a las acciones?
+03:39:42	[Tutor]Ale f:	cuando empecemos a ver DOM
+03:39:48	[Tutor]Ale f:	creo que es la semana q viene
+03:39:55	Leandro Buzzi:	es el infierno dom
+03:39:55	Leandro Buzzi:	jajaj
+03:39:59	Matias Cavallin de Cabo:	😳
+03:40:12	Matias Cavallin de Cabo:	re tarde
+03:40:13	Gustavo Ferreri:	ok
+03:40:14	Matias Cavallin de Cabo:	jajajaja
+03:40:14	Nancy Carolina. Martinez:	21?
+03:40:15	Ignacio Irusta:	12*
+03:40:16	[Tutor] Diego Tomassetti:	jajaja
+03:40:17	Leandro Buzzi:	nos vemos a la noche
+03:40:21	Fernando Hernandez:	porfa subi el coding!
+03:40:23	Mariana Isaac:	creo que voy a dormir un rato
+03:40:24	Leandro Buzzi:	(?
+03:40:24	Matias Cavallin de Cabo:	duermo y vengo
+03:40:26	Matias Dominguez:	jasjdja
+03:40:28	Darío Pérez:	JAJAJAJA
+03:40:29	Martín Pérez:	jajaaja
+03:40:31	Nancy Carolina. Martinez:	ajajjjaja
+03:40:33	Joel Hernandez:	jajaja
+03:40:35	Leandro Buzzi:	pense que ibamos a poder descansar por la gira jajajaj
+03:40:37	Darío Pérez:	Nos vemos esta noche con los tragos
+03:40:38	[Tutor]Ale f:	veníamos re a la noche
+03:40:44	Mariana Isaac:	sábado atr
+03:40:49	Fernando Hernandez:	podes pasar el codigo?
+03:41:06	[Tutor]Ale f:	estaría bueno.. un saturday sesión code
+03:41:18	[Tutor]Ale f:	todos con sus compus y hacemos un proyecto entero todo el sabado
+03:41:25	[Tutor]Ale f:	sesión*
+03:41:33	[Tutor]Ale f:	session*** alv
+03:41:36	Darío Pérez:	lol
+03:41:50	Leandro Buzzi:	me gusta esa idea eh
+03:41:55	Darío Pérez:	esta buena.
+03:42:27	[Tutor]Ale f:	ojo que se me ocurre eh.. en lo que termine el curso nos juntamos un sábado desde la mañana todos con un Monster en casa y le damos a full para hacer un super repaso de todo el curso en un proyecto
+03:42:51	[Tutor]Ale f:	codeando a la par
+03:43:21	Darío Pérez:	De una!
+03:48:42	Fernando Hernandez:	seria buenisimo esoooo
+04:02:52	Pablo Julian Cuello:	tienen algún consejo para alguien que está completamente perdido con los temas y la dinámica de JavaScript?
+04:03:33	[Tutor] Pablo Esteban Kreick:	Practicá muchos ejercicios. No se trata de ser inteligente, sino de ir entendiendo cada línea y practicar sin parar.
+04:03:48	[Tutor] Pablo Esteban Kreick:	Sí practicás mucho vas a llegar al nivel que quieras
+04:04:24	[Tutor] Pablo Esteban Kreick:	Si no practicás casi, no importa qué tan inteligente seas, te va a quedar como un hobby donde más o menos algo sabés
+04:04:38	[Tutor] Pablo Esteban Kreick:	Yo te recomiendo que saques tiempo para poder practicar todos los días un poco
+04:04:55	[Tutor] Pablo Esteban Kreick:	y que te propongas cosas básicas, no apuntes a un carrito en la clase 1
+04:04:56	Nancy Carolina. Martinez:	yo complemento con paginas web donde enseñene el tema. aveces te da una vuelta mas y los ejemplos que dan ayudan a practicar
+04:05:11	Nancy Carolina. Martinez:	google afull paara ejemplos
+04:05:20	[Tutor] Pablo Esteban Kreick:	Tal cual, google nos re ayuda
+04:05:27	Fernando Gaston Da Ruda:	hay un youtuber español que tiro unos ejercicios en JavaScript para ir practicando y dominándolo. en su momento solo pude hacer 2 de 20 jjaja
+04:05:30	[Tutor] Pablo Esteban Kreick:	No vamos a crear nada, vamos a copiar con estilo
+04:05:58	[Tutor] Pablo Esteban Kreick:	Pero hiciste! Muy bien Fernando
+04:06:20	Fernando Gaston Da Ruda:	sisi, veremos ahora a medida que avance en el curso hasta donde llego
+04:10:22	Emanuel Alejandro Islas:	temasoo
+04:10:24	Emanuel Alejandro Islas:	jajaj
+04:10:31	Darío Pérez:	----->? xd
+04:10:32	[PROFESOR] Maximiliano Torreblanca:	jaja back to 2000s
+04:10:52	Emanuel Alejandro Islas:	jajajaj. quede en el pasado
+04:11:07	[PROFESOR] Maximiliano Torreblanca:	hace mil años  no veía ese nombre
+04:11:33	thiago kuperman:	que buena siesta me dormi
+04:11:34	Emanuel Alejandro Islas:	sábado en el recuerdo
+04:12:03	Emanuel Alejandro Islas:	para la próxima quemada
+04:12:05	Emanuel Alejandro Islas:	jjajaja
+04:12:05	Mariano Villalonga:	tengo las milangas en el pecho todavía pero sirve esa media hs jaja
+04:12:19	Joel Hernandez:	la pizza de anoche
+04:12:20	Joel Hernandez:	jaja
+04:12:21	Leandro Buzzi:	tamo activo jajaj
+04:12:33	Darío Pérez:	Y medio litro de cafe
+04:18:06	Tomás Ríos:	solo se guarda un dato
+04:20:34	Joel Hernandez:	es local nombre alumnos
+04:20:35	Darío Pérez:	El de adentro de for es local
+04:20:36	Nancy Carolina. Martinez:	el ambito de nombre alumno es el for
+04:20:36	Matias Cavallin de Cabo:	están dentro del entorno
+04:20:37	Juan Saccomanno-631868:	no era global
+04:20:43	Diego Bruno:	por que esta dentro del for el let
+04:20:52	Tomás Ríos:	salio del for y no estaba definido fuera
+04:24:57	Fernando Gaston Da Ruda:	puede haber un objeto en un array?
+04:25:08	[Tutor] Pablo Esteban Kreick:	puede haber, sí
+04:25:13	[Tutor] Pablo Esteban Kreick:	de hecho es muy útil
+04:25:18	German Patrizi:	la estructura del array en js, entonces es una lista simplemente/doblemente enlazada?
+04:26:13	Ariel Dumpierres:	puedo comparar entre posiciones de un array para que no se repitan dato por ej?
+04:28:09	Joel Hernandez:	se puede ingresar con prompt el numero
+04:29:07	[Tutor] Pablo Esteban Kreick:	es mejor validar las entradas de datos para que eso no ocurra, por lo tanto no recomiendo que pongas eso dentro de los corchetes
+04:29:29	[Tutor] Pablo Esteban Kreick:	para evitar romper funciones o que hagan cosas no deseadas
+04:29:35	Matias Cavallin de Cabo:	6
+04:29:35	Darío Pérez:	6
+04:29:37	Fernando Hernandez:	6
+04:29:37	Ariel Dumpierres:	6
+04:29:38	Juan Pablo Medina:	6
+04:29:38	Mariana Gulias:	6
+04:29:38	Diego Bruno:	6
+04:29:39	Cristina López Santos:	6
+04:29:39	Ignacio Irusta:	8
+04:29:42	Ignacio Irusta:	6
+04:31:48	Sergio Laurizi Possenti:	.
+04:32:05	Lucas Martinez:	frutas[0] = y cambias el nombre?
+04:32:05	Darío Pérez:	con un método.
+04:32:13	Tomás Ríos:	lo pisaste
+04:33:43	Fernando Gaston Da Ruda:	y para agregar "tomates" al array sin que pise nada?
+04:33:46	Ariel Dumpierres:	o ponerle un contador en el []?
+04:33:47	Ivan Alvarez:	Se puede hacer un prompt para ir cargando datos del array?
+04:34:02	[Tutor] Pablo Esteban Kreick:	Sí, Ivan!
+04:34:21	Ivan Alvarez:	Gracias!
+04:34:45	Federico Komarofsky:	8
+04:34:52	thiago kuperman:	se puede hacer un arreglo adentro de otro?
+04:35:02	[Tutor] Pablo Esteban Kreick:	Se puede, Thiago
+04:35:12	Diego Vello:	i
+04:35:13	Matias Cavallin de Cabo:	0
+04:35:16	[Tutor] Pablo Esteban Kreick:	podés simular una matriz incluso, poniendo arrays dentro de arrays
+04:35:16	Joel Hernandez:	0
+04:35:32	Sergio Laurizi Possenti:	00
+04:35:51	Henry González Soto:	En ese condicional (i<8) ¿Cómo se puede poner el largo del arreglo en case de que no lo sepamos?
+04:36:04	Henry González Soto:	Algo como i < arraylenght
+04:36:10	[Tutor] Pablo Esteban Kreick:	frutas.length
+04:36:19	Henry González Soto:	Eso
+04:36:36	Henry González Soto:	Ajá eso :D
+04:37:01	Ariel Dumpierres:	como lo agrando?
+04:38:41	Tomás Ríos:	si hago frutas{ 9} ="mango" serviria para agrandar?
+04:38:51	[Tutor] Pablo Esteban Kreick:	con corchetes
+04:39:01	Ignacio Irusta:	cambia algo usar el const como en la foto?
+04:39:03	[Tutor] Pablo Esteban Kreick:	sí, pero no es recomendable usarlo
+04:39:09	Tomás Ríos:	si, no los encontre 😅
+04:40:55	Diego Bruno:	faltaria push?
+04:40:58	Fernando Gaston Da Ruda:	como que se ingresen por teclado? je
+04:41:10	Fernando Hernandez:	prompt
+04:41:11	Mariano Villalonga:	prompt
+04:41:15	Fernando Gaston Da Ruda:	ahhh que bolu
+04:41:39	Santiago Leonardis:	con un for y vas agregando ahi a medida que lo pedis
+04:42:33	Santiago Leonardis:	alumnos[i] = nombrealumnos no?
+04:43:15	[Tutor] Pablo Esteban Kreick:	muy buena Santiago! pero salvo en contados casos no es buena práctica
+04:43:25	Tomás Ríos:	alumno [i]
+04:43:43	Santiago Leonardis:	Si me imagine por que si no sabes el total que van a entrar mucho no sirve
+04:44:22	[Tutor] Pablo Esteban Kreick:	igual muy bien que se les ocurran cosas así, ahí se dan cuenta que entienden, fíjate que sí se puede. Así que re bien
+04:44:40	Ariel Dumpierres:	el primero en este ejemplo lo agrega en la pos 9?
+04:44:59	Federico Komarofsky:	Lo va agregando con las comas?
+04:45:07	[Tutor] Pablo Esteban Kreick:	si el array está vacío lo agrega en la pos 0
+04:45:10	[Tutor] Pablo Esteban Kreick:	lo agrega al final
+04:45:22	Lucas Martinez:	y para eliminar?
+04:45:38	[Tutor] Pablo Esteban Kreick:	sí, con las comas. Porque las comas las pone automáticamente JavaScript, es así la estructura de datos
+04:45:51	Federico Godoy:	falta el console
+04:46:19	Juan Pablo Medina:	yo puse alumnos.push(prompt("Ingrese el nombre del alumno"));
+04:46:24	Juan Pablo Medina:	no se si estará bien también de esa forma
+04:47:12	Lucas Martinez:	Es lo mismo
+04:47:34	[Tutor] Daniel Romero:	acá les dejo un link sobre array y a la izquierda encontrarán los distintos métodos que se le pueden aplicar a un array como el push https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
+04:49:59	[Tutor] Pablo Esteban Kreick:	pepe
+04:50:08	[Tutor] Pablo Esteban Kreick:	jajaja
+04:50:10	Emanuel Alejandro Islas:	ME DORMI
+04:50:15	Darío Pérez:	xDDDDDD
+04:50:17	Gustavo Ferreri:	jaja
+04:50:17	Emanuel Alejandro Islas:	jajaja
+04:50:17	Federico Bistolfi:	jajajas
+04:50:23	Matias Cavallin de Cabo:	jajaja
+04:50:49	Federico Bistolfi:	vamo
+04:50:50	Federico Godoy:	llegando tarde yo... siempre
+04:50:53	Veronica Vipputo:	elconsole.table esta bueno para la visualización también
+04:51:22	Darío Pérez:	pull (como escuché una vez en un curso xDD)
+04:51:27	Federico Godoy:	:,(
+04:51:31	Violeta Aguirre González:	Como haces para decirle que posición quieres borrar?
+04:51:36	Violeta Aguirre González:	Que no sea primero o ultimo
+04:51:44	Ivan Alvarez:	pal lobby fede
+04:51:52	[Tutor]Ale f:	usamos un filter.. ya veremos eso
+04:52:01	Violeta Aguirre González:	oki
+04:53:50	Darío Pérez:	elimina el primero.
+04:54:10	Gustavo Ferreri:	elimino el primer elemento
+04:55:02	Ariel Dumpierres:	puedo comparar datos entre posiciones?
+04:55:08	Mariana Isaac:	con pop se elimina cualquiera?
+04:55:23	Darío Pérez:	pop elimina el último.
+04:55:24	[Tutor] Pablo Esteban Kreick:	con pop eliminamos el último
+04:55:46	[Tutor] Pablo Esteban Kreick:	Se pueden comparar datos entre posiciones
+04:56:02	[Tutor] Pablo Esteban Kreick:	tenés que buscar las lógicas para hacer todas esas cosas pero podés comparar lo que quieras
+04:56:22	Ariel Dumpierres:	gracias Pablo!
+04:56:35	[Tutor] Pablo Esteban Kreick:	De nada, Ariel :)
+04:57:26	German Patrizi:	para mas adelante si siguen con programación estos métodos son muy importantes, sobre todo si se quiere armar pilas y colas.
+04:57:51	Hernan Salti:	esto si actualizo se me borrarían los datos no? si yo quiero que esos datos se guarden se usaría este metodo como para hacer una agenda por ejemplo?
+04:58:08	[Tutor] Pablo Esteban Kreick:	Esto sirve mientras se ejecuta el código
+04:58:27	[Tutor] Pablo Esteban Kreick:	para que realmente los datos persistan vamos a usar una cosa que se llama localStorage y es en otra clase
+04:58:39	Hernan Salti:	ok gracias pablo!
+04:59:20	[Tutor] Pablo Esteban Kreick:	para la agenda vas a usar todo esto si es necesario, pero faltaría esa clase que te digo para que cuando cierres la ventana y otro día decidas mirar la agenda, no se haya borrado y tengas que volver a empezar! Un garrón esa agenda sino jaja
+04:59:34	[Tutor] Pablo Esteban Kreick:	no te preocupes que lo vas a ver y te va a quedar genial. Pero vas a usar estos métodos, sí
+04:59:34	Fernando Hernandez:	que diferencia hay entre un array y un objeto
+04:59:41	Federico Bistolfi:	break
+05:01:15	Fernando Hernandez:	gracias!
+05:01:54	Joel Hernandez:	consulto se puede tener dos arreglos diferentes con numero y sumar o restar entre ellos?
+05:02:09	[PROFESOR] Maximiliano Torreblanca:	si
+05:02:24	Joel Hernandez:	genial
+05:03:00	Ivana Bolatti:	no puedo ver los arreglos en la consola
+05:03:00	Mariana Isaac:	che hay grupo de WhatsApp para hacer catarsis???
+05:03:14	Darío Pérez:	Jajaja
+05:04:51	Joel Isaac:	hay grupo de wpp?
+05:06:19	Federico Bistolfi:	https://chat.whatsapp.com/G5rA0Oc5mdLDeSAWeFnG5Z
+05:06:22	Federico Bistolfi:	por ahí se unen
+05:06:57	Fernando Gaston Da Ruda:	Bárbaro
+05:07:05	Federico Bistolfi:	quemado como siempre ya fin de semana
+05:07:07	Leandro Buzzi:	el grupo de autoayuda
+05:07:08	Leandro Buzzi:	jajaja
+05:07:21	Joel Isaac:	jajajajajaja
+05:07:22	Cristina López Santos:	los objetos peor que los arrays
+05:07:37	Leandro Buzzi:	por ahora joya
+05:07:39	Darío Pérez:	El autoestima se fue de vacaciones xd
+05:07:42	[Tutor] Pablo Esteban Kreick:	codeadores anónimos
+05:13:40	Diego Vello:	matriz
+05:13:41	Leandro Buzzi:	arrays anidados
+05:13:42	Darío Pérez:	array anidado.
+05:13:43	Juan Saccomanno-631868:	array anidado
+05:13:43	Lucas Martinez:	un aray que contiene 3 arrays
+05:14:12	Matias Cavallin de Cabo:	0,1 0,1 0,1?
+05:14:20	Matias Cavallin de Cabo:	:(
+05:14:45	Darío Pérez:	compras[0][0]?
+05:16:57	Federico Bistolfi:	hermosa ensalada
+05:22:20	Matias Cavallin de Cabo:	malvado
+05:22:33	Joel Hernandez:	perrito malvado jajaj
+05:22:54	Leandro Buzzi:	hay que hacer un ciclo?
+05:22:57	Leandro Buzzi:	for
+05:22:59	Mariano Villalonga:	for
+05:22:59	Federico Godoy:	iterar
+05:23:00	Matias Cavallin de Cabo:	for?
+05:23:33	Leandro Buzzi:	el push?
+05:23:36	Mariano Villalonga:	ingresas siempre el mismo
+05:23:39	Ariel Dumpierres:	se te sobreescribe
+05:25:03	Fernando Hernandez:	se reescribe
+05:25:25	Tomás Ríos:	.push
+05:25:51	Mariano Villalonga:	falta el push para que no se sobrescriba?
+05:26:22	Matias Cavallin de Cabo:	se sobrescribiero
+05:26:22	Santiago Leonardis:	Se sobreescribieron
+05:26:23	Fernando Hernandez:	se sobreescribieron
+05:26:24	Tomás Ríos:	se pisaron
+05:26:49	Fernando Hernandez:	pushealo
+05:26:50	Lucas Martinez:	un push
+05:26:52	Ariel Dumpierres:	el array
+05:26:57	Darío Pérez:	js te trae la solucion
+05:29:29	Ariel Dumpierres:	para que la lista te quede abierta a infinidad de cargas usas length?
+05:32:33	Ariel Dumpierres:	me perdi, que hace la ver perrito?
+05:33:22	Ariel Dumpierres:	ok
+05:33:59	Hernan García:	creo que voy a tener que ver la clase 10 veces 🤣
+05:34:21	Emanuel Alejandro Islas:	aguanta coderrr
+05:34:23	Emanuel Alejandro Islas:	jajaj
+05:36:09	Mariano Villalonga:	igual creo que la clase pasada fue peor
+05:36:23	Joel Hernandez:	tal cual
+05:36:35	Nicolas Cortese:	Maxi, podes subir los archivos?
+05:36:40	Juan Pablo Medina:	la encontré fácil a la clase de hoy
+05:36:41	Mariano Villalonga:	este tema es como que es mas fácil, o me quedo mejor a mi jaja
+05:36:48	Fernando Gaston Da Ruda:	se suben en el drive?
+05:36:57	Mariana Isaac:	no me entra en el cerebro
+05:36:59	Fernando Gaston Da Ruda:	ah joya
+05:38:07	Fernando Hernandez:	DNI
+05:38:22	Ignacio Irusta:	como estado? si esta vivo o si esta casado?
+05:38:38	Fernando Hernandez:	estado solido? gaseoso?
+05:38:44	Ignacio Irusta:	jajaja
+05:38:47	Joel Hernandez:	jajaja estado vivo o muerto
+05:38:48	Alejandro Olivares:	estado: sobrio
+05:38:50	Juan Pablo Medina:	ebrio o sobrio
+05:38:51	Fernando Hernandez:	jajajajaa
+05:38:58	Ariel Dumpierres:	fisura
+05:39:57	Emanuel Alejandro Islas:	18
+05:39:57	Leandro Buzzi:	edad +18
+05:39:59	Joel Hernandez:	18
+05:40:05	Fernando Hernandez:	>=18
+05:41:32	Leandro Buzzi:	podria retornar un bool
+05:42:17	Fernando Hernandez:	if?
+05:43:57	Leandro Buzzi:	se podria hacer un condicional para saber si puede votar o no, si es mayor, se le tomaria los datos, si no, a casa
+05:43:58	Ariel Dumpierres:	o sea registra solo los mayeres de edad?
+05:44:54	Veronica Vipputo:	dos prompt. Si es mayo vota. Sino no puede.
+05:47:32	Leandro Buzzi:	si yo uso el metodo esMayor sin ponerle condicional
+05:47:36	CLAUDIA TORRES:	ya estamos... quemados
+05:47:37	Leandro Buzzi:	me lo toma automaticamente como true, no>
+05:47:38	Darío Pérez:	SI POR FAVOR
+05:53:37	Ignacio Irusta:	podríamos usar el esMayor no?
+05:53:39	Darío Pérez:	edad > 18
+05:53:56	[PROFESOR] Maximiliano Torreblanca:	bien usen el método!
+05:56:17	Leandro Buzzi:	string
+05:56:21	Mariano Villalonga:	esa me salio
+05:56:44	Federico Komarofsky:	Maxi como hacemos para que cuando no puede votar deje de ejecutarse el programa?
+05:56:56	Ignacio Irusta:	break?
+05:57:32	CLAUDIA TORRES:	hay 4 tareas que entregar de estas clases :O
+05:58:24	Nancy Carolina. Martinez:	sip
+05:59:23	Tomás Ríos:	por que hay tareas que se entregan en miercoles?
+05:59:28	Tomás Ríos:	no es que me queje
+05:59:32	Tomás Ríos:	pero me llamo la atencion
+05:59:55	Ignacio Irusta:	como son varios capaz nos dan un poco mas de tiempo
+06:00:10	Darío Pérez:	Eso se hace con sort? O nada que ver?
+06:00:19	Pablo Julian Cuello:	Maxi hoy hay pileta?
+06:00:31	[Tutor] Pablo Esteban Kreick:	Tal cual, Darío. Se hace con sort
+06:01:21	Ignacio Irusta:	cuanta calidad se pide en HTML y CSS?
+06:01:39	Federico Bistolfi:	template vale x ahora?
+06:01:41	[Tutor] Diego Tomassetti:	https://drive.google.com/drive/u/0/folders/1Qfo5_22nWaEkgvSi3RvRDnT9FMl5YYQl
+06:01:54	[Tutor] Diego Tomassetti:	ese es el enlace de las rubricas para las entregas del proyecto
+06:02:23	Hernan García:	hicieron el grupo de wsp? pasen link!!
